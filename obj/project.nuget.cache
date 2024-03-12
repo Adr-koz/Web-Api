@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0lrEr9/5AGOTg1AlLvSDVFPDgau1IS8Po1nOSh39MktJLg6l0uYh2SHfRGoB/nXOxUmJch5rJXfQ6/YiKlAUg==",
+  "success": true,
+  "projectFilePath": "/Users/adrianakozlowska/Documents/Dotnet/WebApiApp/WebApiApp/WebApiApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/adrianakozlowska/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/adrianakozlowska/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/adrianakozlowska/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/adrianakozlowska/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/adrianakozlowska/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/adrianakozlowska/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
