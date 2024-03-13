@@ -4,5 +4,7 @@ namespace WebApiApp.Models
     {
         public int Id { get; set; }
         public string GenreName { get; set; }
+        public ICollection<Title> Titles {get; set;}
+
     }
 }
