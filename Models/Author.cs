@@ -6,6 +6,7 @@ namespace WebApiApp.Models
         public string FirstName {get; set;}
         public string LastName {get; set;}
         public ICollection<Review> Reviews {get; set;}
-        public ICollection<TitleAuthor> AuthorTitles{ get; set; }
+        public ICollection<Title> Titles{ get; set; }
+        public ICollection<TitleAuthor> TitleAuthors{ get; set; }
     }
 }
